@@ -2,6 +2,7 @@
 - Adware + Malware **(Default)**
 - **(Default)** + Gambling + P*rn
 - **(Default)** + Fakenews + Gambling + P*rn + Social
+- **(Default)** + FakeNews + Gambling + P*rn 
 - IPs reported for (Ilegal portscaning, Ilegal access, Fraud, Dns Poising, BlackHat-Hacking, Bruteforce, etc)
 
 
